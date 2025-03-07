@@ -1,3 +1,7 @@
+<p align="center"><img src="https://freelogopng.com/images/all_img/1681039084chatgpt-icon.png" height="25%" width="25%"> </p>
+
+ > ℹ️ **NOTE:** This repository was developed during a technical course on the [DIO](https://dio.me) platform.
+
 # ChatGPT Clone
 
 A **ChatGPT-clone** built with modern technologies to interact with OpenAI's API and mimic ChatGPT functionalities. This project includes both frontend and backend implementations with seamless API integration.
@@ -38,5 +42,30 @@ A **ChatGPT-clone** built with modern technologies to interact with OpenAI's API
     cd clone
     npm start
     ```
+    
+## 👩‍💻 Expert
 
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://github.com/Mirellawanessa/Load-microservice/blob/main/docs/162898256.jpeg?raw=true"
+    />
+    <p>&nbsp&nbsp&nbspMirella Wanessa<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/Mirellawanessa">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/_mirella.page/?next=%2F">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ with 💜 by [Mirella Wanessa](https://github.com/Mirellawanessa)
 
